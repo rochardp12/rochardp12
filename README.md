@@ -8,7 +8,8 @@ proyectos y mis intereses.
 * [Galería de fotos](https://github.com/rochardp12/ProyectoED)
 * [Concurso de mascotas](https://github.com/rochardp12/ProyectoPOO-2Parcial)
 ## Intereses
-* [Lista de tus intereses]
+* Desarrollo de videojuegos
+* Desarrollo de aplicaciones móviles
 
 
 
