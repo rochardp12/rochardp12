@@ -7,9 +7,13 @@ proyectos y mis intereses.
 ## Proyectos
 * [Galería de fotos](https://github.com/rochardp12/ProyectoED)
 * [Concurso de mascotas](https://github.com/rochardp12/ProyectoPOO-2Parcial)
+* [Currículum](https://rochardp12.github.io/curriculum/)
+* [Landing Page - Tienda de cómics](https://rochardp12.github.io/landing/)
+* [Dashboard](https://rochardp12.github.io/dashboard/)
 ## Intereses
+* Software testing
+* Ingeniería de Requerimientos
 * Desarrollo de videojuegos
-* Desarrollo de aplicaciones móviles
 
 
 
